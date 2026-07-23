@@ -1,0 +1,45 @@
+
+body{
+    margin:0;
+    color: rgba(137, 43, 226, 0.87);
+    background-color: rgba(126, 74, 6, 0.733);
+
+}    
+header{
+    background-color: rgb(9, 255, 0);
+    background-image: url("grama\ beta.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+}
+
+div {
+    margin-left: 20px;
+}
+
+div{
+    padding: 30px;
+    width: 80%;
+    margin: 40px;
+    background-color: rgba(169, 169, 169, 0);
+    border-radius: 10px;
+}
+
+#topo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30xp;
+}
+
+
+#topo img {
+    width: 120px;
+}
+
+h1 {
+    width: 80%;
+}
+#zumbi{
+    width: 500px;
+}
